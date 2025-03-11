@@ -24,7 +24,7 @@ I’m a **Data Engineer** at heart who loves building things—whether it’s pi
 I’m diving into **Deep Learning** and beefing up my engineering game—think scalable pipelines and smarter models. 
 
 ## 📫 Hit Me Up
-- [LinkedIn](www.linkedin.com/in/innocent-mbuvi)  
+- [LinkedIn](www.linkedin.com/in/[innocent-mbuvi])  
 - [Email](mailto:[innocent.mbuvi@gmail.com])  
 
 I’m all about building cool stuff with data. Let’s create something awesome together!

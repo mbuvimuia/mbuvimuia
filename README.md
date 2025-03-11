@@ -1,31 +1,30 @@
-# Hi there, I'm Innocent Mbuvi 👋
+# Hey there! I’m Innocent Mbuvi 👋
 
-### About Me
+I’m a **Data Engineer** at heart who loves building things—whether it’s pipelines, models, or solutions that make data work harder. I blend **Data Science** and **Analytics** skills to create stuff that’s practical and impactful. Think of me as a builder with a toolbox full of Python, R, and AWS.
 
-I am Innocent Mbuvi, currently a student at Moringa School with a passion for data manipulation and analysis. I believe that data holds the key to answering many of our questions and I enjoy the challenge of uncovering these insights. I am dedicated to learning and growing in the field of data science and analytics.
+## 🛠️ What I Build With
+- **Core**: Python (pandas, scikit-learn), R, SQL  
+- **Engineering**: Docker, AWS, Apache  
+- **Viz**: PowerBI, Matplotlib  
 
-### Skills
+## 🌟 Stuff I’ve Built
+- **[Adidas Customer Segmentation & Recommendation System](https://github.com/mbuvimuia/Adidas-Customer-Segmentation)**  
+  Led a team to craft a customer segmentation pipeline and recommendation model in Python.   
+- **[Northwest County Housing Market Predictive Analysis](https://github.com/mbuvimuia/Northwest-County-Housing-Analysis)**  
+  Engineered a regression model to predict housing prices—50k+ data points wrangled with Python.  
+- **[SyriaTel Customer Churn Prediction](https://github.com/mbuvimuia/SyriaTel_Customer_Churn_Prediction)**  
+  Built a churn classifier with 90% precision. Turned data into retention wins with clean visuals.  
 
-- **Programming Languages**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-  - ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
-  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+## 🔧 Why I Love This
+- Designing systems that handle data like a pro (hello, Docker and AWS).  
+- Solving problems with ML—classification, regression, clustering, you name it.  
+- Keeping it real with insights that actually matter.  
 
-- **Tools**:
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat)
-  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
+## 🚀 What’s Next
+I’m diving into **Deep Learning** and beefing up my engineering game—think scalable pipelines and smarter models. 
 
-- **Technologies**:
-  - ![Python Libraries](https://img.shields.io/badge/-Python%20Libraries-3776AB?logo=python&logoColor=white&style=flat)
-  - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00758F?logo=scikit-learn&logoColor=white&style=flat)
-  - ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F00?logo=visual-studio-code&logoColor=white&style=flat)
+## 📫 Hit Me Up
+- [LinkedIn](www.linkedin.com/in/innocent-mbuvi)  
+- [Email](mailto:[innocent.mbuvi@gmail.com])  
 
-### Contact
-
-- 📧 Email: [innocent.mbuvi@gmail.com](mailto:xyz@gmail.com)
-
-Feel free to reach out if you have any questions or if you want to collaborate on a project. I'm always open to new opportunities and connections!
-
----
-
-Thank you for visiting my profile!
+I’m all about building cool stuff with data. Let’s create something awesome together!
